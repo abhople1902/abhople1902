@@ -1,6 +1,6 @@
 # Hi 👋, I'm <a href="https://github.com/abhople1902" target="blank">Ayush</a>
 
-<h2>A Passionate Developer from India &#127470;&#127475</h2>
+<h2>Developer from India &#127470;&#127475</h2>
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
@@ -10,8 +10,6 @@
 <br>
 
 - ✈️ I'm currently working on iOS development and Swift programming
-
-- 🎯 I'm open to jobs and internships
 
 - 🚵‍♂️ I'm also currently learning libraries and frameworks of Swift like CoreML, ARKit
 
