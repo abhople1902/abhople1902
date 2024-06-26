@@ -58,7 +58,12 @@
 <a href="https://github.com/abhople1902">
 <img width="49%" title="Redirect's to Ayush's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=abhople1902&theme=dark&theme=black-ice&stroke=0000" /></a>
 
+## **Profile visits**
+<div align="center">
+  <img src="https://profile-counter.glitch.me/abhople1902/count.svg?"/>
+</div>
+
 ## **This 🐍 eating up my contributions** :
-![](https://github.com/abhople1902/abhople1902/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/abhople1902/abhople1902/output/snake.svg" alt="Snake animation" />
 
 [![@hackerdino's Holopin board](https://holopin.me/hackerdino)](https://holopin.io/@hackerdino)
