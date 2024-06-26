@@ -55,12 +55,10 @@
 <p align="center">
 <a href="https://github.com/abhople1902" title="Redirect's to Ayush's Github">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhople1902&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+<a href="https://github.com/abhople1902">
+<img width="49%" title="Redirect's to Ayush's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=abhople1902&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 ## **This 🐍 eating up my contributions** :
 ![](https://github.com/abhople1902/abhople1902/blob/output/github-contribution-grid-snake2.svg)
-  
-
-<a href="https://github.com/abhople1902">
-<img width="49%" title="Redirect's to Ayush's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=abhople1902&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 [![@hackerdino's Holopin board](https://holopin.me/hackerdino)](https://holopin.io/@hackerdino)
