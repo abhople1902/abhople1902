@@ -10,6 +10,8 @@
 
 - ✈️ I'm currently working on iOS development and Swift programming
 
+- 📲 Ready to work atively on Apple Intelligence
+
 - 🚵‍♂️ I'm also currently learning libraries and frameworks of Swift like CoreML, ARKit
 
 - 💬 Ask me about **Swift**
